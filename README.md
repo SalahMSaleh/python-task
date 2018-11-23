@@ -12,7 +12,7 @@ Just download the .zip file and run the script
 
 **For Linux**
  
-Can be doweloaded with the following command:
+Can be downloaded with the following command:
 > git clone https://github.com/salah1712/python-task and run the script
 
 ### Prerequisites
@@ -32,4 +32,4 @@ Nothing needed SQLite is already imported by defult
 
 ## Authors
 
-* **Salah Saleh** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Salah Saleh** - *Initial work*
