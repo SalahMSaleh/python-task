@@ -23,10 +23,11 @@ Nothing needed SQLite is already imported by defult
 
 1. Run script and choose table
 2. Add data to one of the tables (tables empty by defult)
-3. Add data to the other table u will notice the two tables are syncing togather
-4. Modify by entering the ID of the record u want to modify
-5. Notice the other table change
-6. Delete any record by its ID in one table and the other will get deleted two
+3. Add data to the other table 
+4. Notice the two tables are syncing togather by printing the tables
+5. Modify by entering the ID of the record u want to modify
+6. Notice the other table change
+7. Delete any record by its ID in one table and the other will get deleted two
 
 
 ## Authors
